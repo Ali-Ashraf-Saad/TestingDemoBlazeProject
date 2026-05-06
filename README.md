@@ -26,7 +26,7 @@ The goal of this project is to practice and apply multiple software testing tech
 
 ## Application Under Test
 
-**DemoBlaze**  
+**[DemoBlaze](https://www.demoblaze.com/)**
 A demo e-commerce website used for testing and training purposes.
 
 ---
