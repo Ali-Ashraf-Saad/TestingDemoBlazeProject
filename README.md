@@ -75,6 +75,8 @@ API testing was done using requests captured from the browser Network tab and or
 - Folders
 - Assertions / Tests
 
+<img width="1850" height="986" alt="image" src="https://github.com/user-attachments/assets/83b790fa-7f40-406b-afea-22e5159d3892" />
+
 ---
 
 ### 3. Performance Testing (JMeter + BlazeMeter)
@@ -96,6 +98,8 @@ Performance testing was implemented using BlazeMeter Recorder and Apache JMeter.
 - Throughput
 - Error Rate
 
+<img width="1850" height="986" alt="image" src="https://github.com/user-attachments/assets/e5c09f48-08b4-465f-b7df-505ae8bc0440" />
+
 ---
 
 ### 4. Automation Testing (Selenium + TestNG)
@@ -115,6 +119,8 @@ The project follows the **Page Object Model (POM)** structure.
 - `base`
 - `pages`
 - `tests`
+
+<img width="1850" height="986" alt="image" src="https://github.com/user-attachments/assets/c299aecf-fa33-44eb-8667-8e8dfd71c5da" />
 
 ---
 
