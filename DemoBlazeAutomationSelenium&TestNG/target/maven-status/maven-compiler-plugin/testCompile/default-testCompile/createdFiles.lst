@@ -1,0 +1,6 @@
+pages/CartPage.class
+pages/ProductPage.class
+pages/LoginPage.class
+base/BaseTest.class
+pages/HomePage.class
+tests/EndToEndTest.class
