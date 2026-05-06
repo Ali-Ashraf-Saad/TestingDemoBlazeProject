@@ -127,20 +127,26 @@ The project follows the **Page Object Model (POM)** structure.
 ## Project Structure
 
 ```text
-DemoBlazeAutomationProject
-├── pom.xml
-├── src
-│   └── test
-│       └── java
-│           ├── base
-│           │   └── BaseTest.java
-│           ├── pages
-│           │   ├── CartPage.java
-│           │   ├── HomePage.java
-│           │   ├── LoginPage.java
-│           │   └── ProductPage.java
-│           └── tests
-│               └── EndToEndTest.java
 ├── DemoBlaze API Testing.postman_collection.json
+├── DemoBlazeAutomationSelenium&TestNG
+│   ├── pom.xml
+│   └── src
+│       ├── main
+│       │   └── java
+│       │       └── com
+│       │           └── sectionproject
+│       │               └── Main.java
+│       └── test
+│           └── java
+│               ├── base
+│               │   └── BaseTest.java
+│               ├── pages
+│               │   ├── CartPage.java
+│               │   ├── HomePage.java
+│               │   ├── LoginPage.java
+│               │   └── ProductPage.java
+│               └── tests
+│                   └── EndToEndTest.java
 ├── DemoBlaze-JMeter.jmx
-└── Project SwE 2 - Testing.docx
+└── Project SwE 2 – Testing.docx
+
